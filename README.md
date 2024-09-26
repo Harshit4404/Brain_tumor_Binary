@@ -1,1 +1,1 @@
-# Brain_tumor_Binary
+# Brain_tumor_Detection
